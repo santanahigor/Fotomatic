@@ -1,0 +1,2 @@
+# Fotomatic
+Debug exercise
